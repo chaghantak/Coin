@@ -1,0 +1,4 @@
+/ All coins
+/:id ->btc -> coin Detail
+
+/btc/information ->nested router 상세페이지속 상세페이지
